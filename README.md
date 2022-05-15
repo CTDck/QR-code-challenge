@@ -24,7 +24,7 @@ This is my first ever code challenge, extremely new to both CSS and HTML but alw
 
 ![](./final-solution.png)
 
-2nd Attempt, Reworked `<div class=container>` into `<main class=container>`, likewise with the attribution. Sizes altered to reflect design more appropriately. 
+2nd Attempt, Reworked `<div class=container>` into `<main class=container>`, likewise with the attribution. Sizes altered to reflect design more appropriately. Added some stylistic flair to the footer. It now has a hover state. 
 
 ![](./solution-rework.png)
 
