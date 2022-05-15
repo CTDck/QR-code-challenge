@@ -75,5 +75,4 @@ I will continue to focus on:
 
 - Website - [Cameron Dick](https://ctdck.github.io/CurriculumVitae/)
 - Frontend Mentor - [@CTDck](https://www.frontendmentor.io/profile/CTDck)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
