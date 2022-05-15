@@ -20,7 +20,13 @@ This is my first ever code challenge, extremely new to both CSS and HTML but alw
 
 ### Screenshot
 
+1st Attempt, No refinements
+
 ![](./final-solution.png)
+
+2nd Attempt, Reworked `<div class=container>` into `<main class=container>`, likewise with the attribution. Sizes altered to reflect design more appropriately. 
+
+![](./solution-rework.png)
 
 ### Links
 
