@@ -1,0 +1,56 @@
+body {
+  background-color: #d6e2f0;
+}
+
+img {
+  /*Border radius and width can be shared from container to img*/
+  border-radius: inherit;
+  width: inherit;
+}
+
+.container {
+  background-color: #ffffff;
+  text-align: center;
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  border-radius: 10px;
+  /*Shifts left hand corner of container to middle of screen*/
+  position: absolute;
+  /*Percentage values allows page to be scaled while maintaining position*/
+  left: 50%;
+  top: 50%;
+  /*Translate center of container to centre of screen*/
+  transform: translate(-50%, -50%);
+  /*Setup font for child containers..? i.e each sub-container should have font family [name]*/
+  font-family: 'Outfit', sans-serif;
+}
+
+.subtext {
+  font-weight: 700;
+  font-size: 15px;
+  margin: 20px auto 10px;
+  padding: 0 10px;
+  color: #1f3251;
+}
+
+.instructions {
+  font-weight: 400;
+  font-size: 11px;
+  padding: 0 10px;
+  color: #7b879d;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  font-size: 11px;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+}
+
+.attribution a {
+  color: #1f3251;
+}
