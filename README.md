@@ -16,14 +16,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+This is my first ever code challenge, extremely new to both CSS and HTML but always looking for ways to improve. Cheers
+
 ### Screenshot
 
 ![](./final-solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/CTDck/QR-code-challenge)
+- Live Site URL: [Add live site URL here](https://ctdck.github.io/QR-code-challenge/)
 
 ## My process
 
@@ -75,4 +77,3 @@ I will continue to focus on:
 
 - Website - [Cameron Dick](https://ctdck.github.io/CurriculumVitae/)
 - Frontend Mentor - [@CTDck](https://www.frontendmentor.io/profile/CTDck)
-
